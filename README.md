@@ -17,5 +17,5 @@ Git LFS (if using for large files)
 Any other dependencies...
 Setup Instructions
 Clone the Repository:
-## git clone [https://github.com/yourusername/your-repo-name.git](https://github.com/Jum-eng/DCIT316-Social_Media_Mining_final_Project/blob/main/Multimodal_Sentiment_Anlysis.ipynb)
+## git clone [[https://github.com/yourusername/your-repo-name.git](https://github.com/Jum-eng/DCIT316-Social_Media_Mining_final_Project/blob/main/Multimodal_Sentiment_Anlysis.ipynb)](https://github.com/Jum-eng/DCIT316-Social_Media_Mining_final_Project.git)
 ## cd your-repo-name
